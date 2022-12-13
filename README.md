@@ -17,7 +17,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [AIM (All In Moive)](https://github.com/Integerous/goQuality)
+### 1. [AIM (All In Moive)](https://github.com/Ju-Yeongmin/AIM_Project_team3)
 >영화 예매 사이트 (팀 프로젝트)  
 >개발 기간: 2022.10.27 ~ 2022.11.29  
 >  
@@ -25,7 +25,7 @@
 >Java 11 / JSP / MySQL / Javascript/ Jquery  
 >HTML5 / CSS3 / AJAX / Jsoup
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Ju-Yeongmin/AIM_Project_team3) 참고
 
 ---
 
