@@ -27,7 +27,11 @@
 >  
 >[프로젝트 상세 설명](https://github.com/Ju-Yeongmin/AIM_Project_team3) 참고
 
+<br>
+
 ---
+
+<br>
 
 ### 2. [Nerf.hae](https://github.com/Ju-Yeongmin/LOL_Nerf_project_JSP)
 >LOL 전적 검색 사이트 (팀 프로젝트)  
@@ -39,7 +43,11 @@
 >  
 >[프로젝트 상세 설명](https://github.com/Ju-Yeongmin/LOL_Nerf_project_JSP) 참고
 
+<br>
+
 ---
+
+<br>
 
 ### 3. [차곡](https://github.com/Ju-Yeongmin/Final_Project_Team2)
 >자산 관리 사이트 (팀 프로젝트)  
