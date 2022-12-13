@@ -9,43 +9,42 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
+- 이메일: drodudals1@gmail.com
 - 깃헙: https://github.com/Ju-Yeongmin
 
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [AIM (All In Moive)](https://github.com/Integerous/goQuality)
+>영화 예매 사이트 (팀 프로젝트)  
+>개발 기간: 2022.10.27 ~ 2022.11.29  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 11 / JSP / MySQL / Javascript/ Jquery  
+>HTML5 / CSS3 / AJAX / Jsoup
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [Nerf.hae](https://github.com/Integerous/goQuality)
+>LOL 전적 검색 사이트 (팀 프로젝트)  
+>개발 기간: 2022.12.02 ~ 2022.12.10  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 11 / JSP / MySQL / Javascript/ Jquery  
+>HTML5 / CSS3 / AJAX / Jsoup 
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 3. [차곡](https://github.com/Integerous/goQuality)
+>자산 관리 사이트 (팀 프로젝트)  
+>개발 기간: 2022.12.12 ~ 2023.1.16 (진행중)  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring / Maven / MySQL / MyBatis  
+>Javascript / HTML5 / CSS3 / AJAX / Jquery
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
